@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.exe
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.deps.json
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.runtimeconfig.json
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.runtimeconfig.dev.json
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.dll
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.pdb
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.Form1.resources
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csproj.GenerateResource.cache
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.AssemblyInfo.cs
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.dll
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.pdb
+C:\Users\user\source\repos\EXEMPLU5\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.genruntimeconfig.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.exe
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.deps.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.runtimeconfig.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.runtimeconfig.dev.json
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.dll
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\bin\Debug\netcoreapp3.1\EXEMPLU5.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.AssemblyInfoInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.AssemblyInfo.cs
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.dll
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.pdb
+C:\Users\Tatiana Spatari\Desktop\Loborator\WindowsFormsApp5Ex1\EXEMPLU5\obj\Debug\netcoreapp3.1\EXEMPLU5.genruntimeconfig.cache
